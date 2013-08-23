@@ -1,7 +1,7 @@
-kr.nor.daum
-kr.nor.daum.daemon
-kr.nor.daum.example
-kr.nor.daum.impl
-kr.nor.daum.impl.daemon
-kr.nor.daum.impl.response
-kr.nor.daum.response
+kr.nor.mypeople
+kr.nor.mypeople.daemon
+kr.nor.mypeople.example
+kr.nor.mypeople.impl
+kr.nor.mypeople.impl.daemon
+kr.nor.mypeople.impl.response
+kr.nor.mypeople.response
