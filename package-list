@@ -1,7 +1,7 @@
-kr.nor.mypeople
-kr.nor.mypeople.daemon
-kr.nor.mypeople.example
-kr.nor.mypeople.impl
-kr.nor.mypeople.impl.daemon
-kr.nor.mypeople.impl.response
-kr.nor.mypeople.response
+kr.nor.mypeople4j
+kr.nor.mypeople4j.daemon
+kr.nor.mypeople4j.example
+kr.nor.mypeople4j.impl
+kr.nor.mypeople4j.impl.daemon
+kr.nor.mypeople4j.impl.response
+kr.nor.mypeople4j.response
